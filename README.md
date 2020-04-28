@@ -8,7 +8,24 @@ O índice de massa corporal (IMC) é uma medida internacional usada para calcula
 
   
 
-## Tecnologias
+## 🚀 Tecnologias
 
-- React Native
-- Expo
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
+
+## 🗂 Executar Projeto.
+
+```bash
+# Clonar Projeto
+$ git clone https://github.com/LuanAmaro/calculadora-imc-simples.git
+
+# Entrar na pasta do projeto.
+$ cd calculadora-imc
+
+# Baixar as dependencies.
+$ yarn
+
+# E por fim, executar projeto.
+$ yarn start
+
+  ```
